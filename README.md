@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [-](-)
 
-- 👨‍💻 All of my projects are available at [aaravaggarwal3535@gmail.com](aaravaggarwal3535@gmail.com)
+- 👨‍💻 All of my projects are available at --> https://github.com/aaravaggarwal3535
 
 - 💬 Ask me about **Python, (HTML, CSS, JS)**
 
