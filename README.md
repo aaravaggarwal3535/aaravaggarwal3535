@@ -11,6 +11,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/aaravaggarwal3535/aaravaggarwal3535/output/snake.svg" alt="Snake animation" />
+
 
 ###
