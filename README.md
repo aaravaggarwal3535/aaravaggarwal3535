@@ -22,20 +22,20 @@ https://github.com/aaravaggarwal3535<br><br>- 💬 Ask me about **Python, (HTML,
 <p align="left"><br><a href="https://twitter.com/aaravaggarwal35" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="aaravaggarwal35" height="30" width="40" /></a><a
-        href="https://linkedin.com/in/www.linkedin.com/in/aarav-aggarwal-731a60320" target="blank"><img align="center"
+        href="www.linkedin.com/in/aarav-aggarwal-731a60320" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="www.linkedin.com/in/aarav-aggarwal-731a60320" height="30" width="40" /></a><a
-        href="https://stackoverflow.com/users/https://stackoverflow.com/users/28444643" target="blank"><img
+        href="https://stackoverflow.com/users/28444643" target="blank"><img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="https://stackoverflow.com/users/28444643" height="30" width="40" /></a><a
-        href="https://kaggle.com/https://www.kaggle.com/aaravaggarwal19" target="blank"><img align="center"
+        href="https://www.kaggle.com/aaravaggarwal19" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
             alt="https://www.kaggle.com/aaravaggarwal19" height="30" width="40" /></a><a
-        href="https://instagram.com/https://www.instagram.com/aarav_aggarwal._/#" target="blank"><img align="center"
+        href="https://www.instagram.com/aarav_aggarwal._/#" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="https://www.instagram.com/aarav_aggarwal._/#" height="30" width="40" /></a><a
-        href="https://www.leetcode.com/https://leetcode.com/u/aarav_aggarwal/" target="blank"><img align="center"
+        href="https://leetcode.com/u/aarav_aggarwal/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="https://leetcode.com/u/aarav_aggarwal/" height="30" width="40" /></a><br></p><br><br>
 <h3 align="left">Languages and Tools:</h3><br>
