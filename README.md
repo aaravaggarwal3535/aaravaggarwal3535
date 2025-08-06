@@ -22,7 +22,7 @@ https://github.com/aaravaggarwal3535<br><br>- 💬 Ask me about **Python, (HTML,
 <p align="left"><br><a href="https://twitter.com/aaravaggarwal35" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="aaravaggarwal35" height="30" width="40" /></a><a
-        href="www.linkedin.com/in/aarav-aggarwal-731a60320" target="blank"><img align="center"
+        href="wwww.linkedin.com/in/aarav-aggarwal-731a60320" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="www.linkedin.com/in/aarav-aggarwal-731a60320" height="30" width="40" /></a><a
         href="https://stackoverflow.com/users/28444643" target="blank"><img
