@@ -14,9 +14,9 @@
 <p align="left">
 <h1 align="center">Hi 👋, I'm Aarav Aggarwal</h1><br>
 <h3 align="center">A passionate developer, want to learn collab and improve</h3><br><br><br><br>- 🔭 I’m currently
-working on [-](--)<br><br>- 🌱 I’m currently learning **ML, React, C++**<br><br>- 👯 I’m looking to collaborate on
-[-](-)<br><br>- 🤝 I’m looking for help with [-](-)<br><br>- 👨‍💻 All of my projects are available at -->
-https://github.com/aaravaggarwal3535<br><br>- 💬 Ask me about **Python, (HTML, CSS, JS)**<br><br>- 📫 How to reach me
+working on Machine Learning<br><br>- 🌱 I’m currently learning **ML/DL, Agentic AI, MERN, C++**<br><br>- 👯 I’m looking to collaborate on
+Projects based on ML and DL and AI both with Frontend and backend<br><br>- 👨‍💻 All of my projects are available at -->
+https://github.com/aaravaggarwal3535<br><br>- 💬 Ask me about **Python, (HTML, CSS, JS, ReactJS, Node.JS), ML/DL, GenAI**<br><br>- 📫 How to reach me
 **aaravaggarwal3535@gmail.com**<br><br>
 <h3 align="left">Connect with me:</h3><br>
 <p align="left"><br><a href="https://twitter.com/aaravaggarwal35" target="blank"><img align="center"
